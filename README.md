@@ -12,7 +12,8 @@ Problem Statement:
 
 1.Clone this repository.
 2.Install Java JDK for before installing Jenkins (Note:Only Java JDK 8-11 are supported by Jenkins,so install any Java JDK between 8 to 11).
-3.Go to Jenkins website and download "jenkins.jar" file.
+3.Go to Jenkins website and download "jenkins.jar" file.   
+
 3.After completion of Java installion,go to command prompt.Type "java -version" to check if java is completly installed and to verify your installed version is between 8 to 11.
 4.Then type "java -jar 'drag and drop the jar file to command prompt' ". (Example: java -jar c:\system\downloads\jenkins.jar)
 5.Jenkins runs in localhost:8080 by default. Go to this location.
