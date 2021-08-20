@@ -8,6 +8,14 @@
 
 
 
+![jenkins-1](https://user-images.githubusercontent.com/59798427/130254976-e7e0bf89-30ed-4695-a5b6-59f859962d30.jpg)
+![Jenkins-2](https://user-images.githubusercontent.com/59798427/130255073-88fb1bdb-5b9e-474e-8ee4-b865b57b5dd8.jpg)
+![Jenkins-3](https://user-images.githubusercontent.com/59798427/130255079-92484883-b8b0-4120-a899-6df2309af848.jpg)
+
+
+
+
+
 **Steps to be followed for this project:
 
 1.Clone this repository. 
@@ -90,7 +98,8 @@
 
 
 
-![jenkins-1](https://user-images.githubusercontent.com/59798427/130254976-e7e0bf89-30ed-4695-a5b6-59f859962d30.jpg)
+
+
 
 
 
