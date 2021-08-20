@@ -1,12 +1,12 @@
 #Jenkins-Project: This project for Continuous Integration using tools like: 
+
 ->GIT
+
 ->Github
+
 ->Jenkins:Jenkins is an open source automation tool written in Java with plugins built for " Continuous Integration " purpose
 
 
-Problem Statement:
-1.Developers commit's changes to the source code repo.
-2.Jenkin server pulls that code and triggers a build.
 
 **Steps to be followed for this project:
 
